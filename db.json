@@ -1,1 +1,3 @@
-{ "product" : [{"id":4,"productName":"Manning_Sealed","productNo":null,"productType":null,"productImage":null,"status":true,"cityList":[2],"stateList":[7],"scenarioList":[2,3]}]}
+[{"id":1,"productName":"Manning_sealed","productNo":null,"productType":null,"productImage":null,"status":true,"ciytName" : "Brisbane"},
+{"id":2,"productName":"Blackwoods_sealed","productNo":null,"productType":null,"productImage":null,"status":true, "ciytName" : "Brisbane"}
+]
