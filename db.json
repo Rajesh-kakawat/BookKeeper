@@ -1,6 +1,21 @@
 {
-"product" :
-[{"id":1,"productName":"Manning_sealed","productNo":null,"productType":null,"productImage":null,"status":true, "ciytName" : "Brisbane"},
-{"id":2,"productName":"Blackwoods_sealed","productNo":null,"productType":null,"productImage":null,"status":true, "ciytName" : "Brisbane"}
-]
+	"product": [{
+			"id": 1,
+			"productName": "Manning_sealed",
+			"productNo": null,
+			"productType": null,
+			"productImage": null,
+			"status": true,
+			"ciytName": "Brisbane"
+		},
+		{
+			"id": 2,
+			"productName": "Blackwoods_sealed",
+			"productNo": null,
+			"productType": null,
+			"productImage": null,
+			"status": false,
+			"ciytName": "Brisbane"
+		}
+	]
 }
